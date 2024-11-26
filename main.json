@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "sing-box.sagernet.org",
+        "docs.craft.do"
+      ]
+    }
+  ],
+  "version": 2
+}
