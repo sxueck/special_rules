@@ -1,0 +1,10 @@
+{
+    "rules": [
+        {
+            "domain_suffix": [
+                "www.starbucks.com"
+            ]
+        }
+    ],
+    "version": 2
+}
