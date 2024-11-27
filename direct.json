@@ -2,7 +2,8 @@
     "rules": [
         {
             "domain_suffix": [
-                "www.starbucks.com"
+                "www.starbucks.com",
+                "jenkinsugospro.ugreencloud.com"
             ]
         }
     ],
