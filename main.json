@@ -3,7 +3,8 @@
     {
       "domain_suffix": [
         "sing-box.sagernet.org",
-        "docs.craft.do"
+        "docs.craft.do",
+        "*.ai"
       ]
     }
   ],
