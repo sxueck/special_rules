@@ -4,7 +4,8 @@
       "domain_suffix": [
         "sing-box.sagernet.org",
         "docs.craft.do",
-        "*.ai"
+        "*.ai",
+        "*.tabnine.com"
       ]
     }
   ],
